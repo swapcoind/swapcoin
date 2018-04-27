@@ -7,7 +7,7 @@ Use the autogen script to prepare the build environment.
     make
 
 Precompiled binaries are available at github, see
-https://github.com/swapcoindev/swap-binaries
+https://github.com/swapcoind/swapcoin-binaries
 
 Always verify the signatures and checksums.
 

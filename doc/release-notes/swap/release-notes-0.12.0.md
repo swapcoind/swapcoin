@@ -8,7 +8,7 @@ Swap Core version 0.12.0 is now available from:
 
 Please report bugs using the issue tracker at github:
 
-  https://github.com/swapcoindev/swap/issues
+  https://github.com/swapcoind/swapcoin/issues
 
 
 How to Upgrade

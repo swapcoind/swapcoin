@@ -25,8 +25,8 @@ Build-Depends: debhelper,
  python
 Standards-Version: 3.9.2
 Homepage: https://www.swap.org/
-Vcs-Git: git://github.com/swapcoindev/swap.git
-Vcs-Browser: https://github.com/swapcoindev/swap
+Vcs-Git: git://github.com/swapcoind/swapcoin.git
+Vcs-Browser: https://github.com/swapcoind/swapcoin
 
 Package: swapd
 Architecture: any
