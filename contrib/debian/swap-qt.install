@@ -1,0 +1,6 @@
+usr/local/bin/swap-qt usr/bin
+share/pixmaps/swap32.xpm usr/share/pixmaps
+share/pixmaps/swap16.xpm usr/share/pixmaps
+share/pixmaps/swap128.png usr/share/pixmaps
+debian/swap-qt.desktop usr/share/applications
+debian/swap-qt.protocol usr/share/kde4/services/

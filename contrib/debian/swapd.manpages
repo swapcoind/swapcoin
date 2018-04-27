@@ -1,0 +1,3 @@
+debian/manpages/swapd.1
+debian/manpages/swap.conf.5
+debian/manpages/swap-cli.1

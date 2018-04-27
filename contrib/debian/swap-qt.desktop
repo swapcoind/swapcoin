@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Swap
+Comment=Swap P2P Cryptocurrency
+Comment[fr]=Swap, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Swap, eşten eşe kriptografik sanal para birimi
+Exec=swap-qt %u
+Terminal=false
+Type=Application
+Icon=swap128
+MimeType=x-scheme-handler/swap;
+Categories=Office;Finance;
