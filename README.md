@@ -1,6 +1,6 @@
 ![Header image](/promo/header.png)
 
-Swap Core 1.0.1.1
+Swap Core 1.0.1
 ===============================
 
 ![About text](/promo/about.png)
